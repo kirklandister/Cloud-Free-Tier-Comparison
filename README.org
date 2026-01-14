@@ -2,14 +2,9 @@
 :PROPERTIES:
 :CUSTOM_ID: cloud-service-providers-free-tier-overview
 :END:
-[[https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison][[[https://img.shields.io/github/stars/cloudcommunity/Cloud-Free-Tier-Comparison?style=social]]]]
-[[https://twitter.com/CloudStudyNet][[[https://img.shields.io/twitter/follow/CloudStudyNet?style=social]]]]
 
 Comparing the free tier offers of the major cloud providers like AWS,
 Azure, GCP, Oracle Cloud etc.
-
-*Star* :star: this repository if you found it useful and share with
-fellow developers!
 
 1. [[#1-aws][AWS]]
 2. [[#2-azure][Azure]]
@@ -24,7 +19,7 @@ fellow developers!
 11. [[#11-jfrog][JFrog]]
 12. [[#12-salesforce][Salesforce]]
 13. [[#13-openshift][OpenShift]]
-14. [[#14-linode][Linode]]
+n14. [[#14-linode][Linode]]
 15. [[#15-container-hosting-service][Container Hosting Service]]
 16. [[#16-cloudflare][Cloudflare]]
 17. [[#17-ovhcloud][OVHcloud]]
