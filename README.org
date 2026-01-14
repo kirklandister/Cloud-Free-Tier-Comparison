@@ -19,7 +19,7 @@ Azure, GCP, Oracle Cloud etc.
 11. [[#11-jfrog][JFrog]]
 12. [[#12-salesforce][Salesforce]]
 13. [[#13-openshift][OpenShift]]
-n14. [[#14-linode][Linode]]
+14. [[#14-linode][Linode]]
 15. [[#15-container-hosting-service][Container Hosting Service]]
 16. [[#16-cloudflare][Cloudflare]]
 17. [[#17-ovhcloud][OVHcloud]]
