@@ -1,0 +1,402 @@
+* Cloud Service Providers Free Tier Overview
+:PROPERTIES:
+:CUSTOM_ID: cloud-service-providers-free-tier-overview
+:END:
+[[https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison][[[https://img.shields.io/github/stars/cloudcommunity/Cloud-Free-Tier-Comparison?style=social]]]]
+[[https://twitter.com/CloudStudyNet][[[https://img.shields.io/twitter/follow/CloudStudyNet?style=social]]]]
+
+Comparing the free tier offers of the major cloud providers like AWS,
+Azure, GCP, Oracle Cloud etc.
+
+*Star* :star: this repository if you found it useful and share with
+fellow developers!
+
+1. [[#1-aws][AWS]]
+2. [[#2-azure][Azure]]
+3. [[#3-google-cloud][Google Cloud]]
+4. [[#4-oracle-cloud][Oracle Cloud]]
+5. [[#5-alibaba-cloud][Alibaba Cloud]]
+6. [[#6-ibm-cloud][IBM Cloud]]
+7. [[#7-digitalocean][DigitalOcean]]
+8. [[#8-hetzner-cloud][Hetzner Cloud]]
+9. [[#9-render][Render]]
+10. [[#10-netlify][Netlify]]
+11. [[#11-jfrog][JFrog]]
+12. [[#12-salesforce][Salesforce]]
+13. [[#13-openshift][OpenShift]]
+14. [[#14-linode][Linode]]
+15. [[#15-container-hosting-service][Container Hosting Service]]
+16. [[#16-cloudflare][Cloudflare]]
+17. [[#17-ovhcloud][OVHcloud]]
+18. [[#18-tencent-cloud][Tencent Cloud]]
+19. [[#19-vercel][Vercel]]
+20. [[#20-zeabur][Zeabur]]
+
+** 1. AWS
+:PROPERTIES:
+:CUSTOM_ID: aws
+:END:
+Homepage: [[https://aws.amazon.com/free/][AWS Free Tier]]
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free
+:END:
+- Amazon DynamoDB (NoSQL): 25 GB of storage
+- AWS Lambda (FaaS): 1 Million free requests per month
+- Amazon SNS: 1 Million publishes
+
+** 2. Azure
+:PROPERTIES:
+:CUSTOM_ID: azure
+:END:
+Homepage: [[https://azure.microsoft.com/en-us/free/][Azure Free Tier]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time
+:END:
+- US$200 credit for 30 days
+- Popular services free for 12 months
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-1
+:END:
+- 54+ other services free always
+
+** 3. Google Cloud
+:PROPERTIES:
+:CUSTOM_ID: google-cloud
+:END:
+Homepage: [[https://cloud.google.com/free/docs/gcp-free-tier][Google
+Cloud Free Tier]]
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-2
+:END:
+- Compute VM: 0.25 vCPU, 1 GB RAM (only on us-west1, us-central1 and
+  us-east1)
+  - 30 GB of standard persistent disk
+  - 1 GB of network egress (except China and Australia) - in premium
+    tier
+  - 200 GB of network egress to any region in standard tier. (Comes with
+    increased latency of around 20%.)
+- BigQuery (SQL): 1 TB of querying per month and 10 GB of storage each
+  month
+- Cloud Storage: 5 GB-months of regional storage (US regions only) per
+  month
+
+** 4. Oracle Cloud
+:PROPERTIES:
+:CUSTOM_ID: oracle-cloud
+:END:
+Homepage: [[https://www.oracle.com/cloud/free/][Oracle Cloud Free Tier]]
+
+*** Free for Limited-time 30 day free trial
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-30-day-free-trial
+:END:
+- US $300 credit for 30 days
+- Up to eight instances across all available services
+- Up to 5 TB of storage
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-3
+:END:
+- Compute: (Note-
+  [[https://blogs.oracle.com/cloud-infrastructure/post/vcpu-and-ocpu-pricing-information][1
+  Oracle OCPU = 2 vCPUs]])
+  - 2 AMD-based VMs: 1/8 OCPU = 0.25 vCPU with 1 GB RAM each
+  - 4 Arm-based VMs: 24 GB RAM total, 3,000 OCPU hours and 18,000 GB
+    memory hours per month
+- 2 Block Volumes Storage, 200 GB total
+- 10 GB Object Storage - Standard
+- 10 GB Object Storage - Infrequent Access
+- 10 GB Archive Storage
+- 10TB of network data egress/month per originating region
+- Resource Manager (managed terraform)
+- 5 OCI Bastions
+- 2 Oracle Autonomous Databases incl. Oracle Application Express (APEX),
+  Oracle SQL Developer etc., each with 20GB storage
+- NoSQL Database with 25GB storage per table, up to 3 tables
+- 4 Load Balancers: 1 Flexible (10Mbps) and 3 Network
+- Monitoring and Notifications
+
+** 5. Alibaba Cloud
+:PROPERTIES:
+:CUSTOM_ID: alibaba-cloud
+:END:
+Homepage: [[https://www.alibabacloud.com/campaign/free-trial][Alibaba
+Cloud Free Trial]]
+
+*** Try Over 40 Products for Free Worth $450-$1300 USD.
+:PROPERTIES:
+:CUSTOM_ID: try-over-40-products-for-free-worth-450-1300-usd.
+:END:
+*** Now up to 12 Months Usage for Elastic Compute Services.
+:PROPERTIES:
+:CUSTOM_ID: now-up-to-12-months-usage-for-elastic-compute-services.
+:END:
+** 6. IBM Cloud
+:PROPERTIES:
+:CUSTOM_ID: ibm-cloud
+:END:
+Homepage: [[https://www.ibm.com/uk-en/cloud/free][IBM Cloud Free Tier]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-1
+:END:
+- US$200 credit for 30 days
+
+** 7. DigitalOcean
+:PROPERTIES:
+:CUSTOM_ID: digitalocean
+:END:
+Homepage: [[https://www.digitalocean.com/][DigitalOcean]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-2
+:END:
+- $100 credit for 60 days from [[https://do.co/hf100][do.co/hf100]]
+
+** 8. Hetzner Cloud
+:PROPERTIES:
+:CUSTOM_ID: hetzner-cloud
+:END:
+Homepage: [[https://hetzner.cloud][Hetzner Cloud]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-3
+:END:
+- sometimes they give away free credits
+
+** 9. Render
+:PROPERTIES:
+:CUSTOM_ID: render
+:END:
+Homepage: [[https://render.com/][Render]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-4
+:END:
+- sometimes they give away free credits
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-4
+:END:
+- static site hosting
+- web service
+- Redis
+- PostgreSQL
+- 
+- 0.1vCPU, 512MB of RAM, 100GB bandwidth, running time of 750 hours per
+  month
+
+** 10. Netlify
+:PROPERTIES:
+:CUSTOM_ID: netlify
+:END:
+Homepage: [[https://www.netlify.com/][Netlify]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-5
+:END:
+- sometimes they give away free credits
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-5
+:END:
+- static site hosting
+
+** 11. JFrog
+:PROPERTIES:
+:CUSTOM_ID: jfrog
+:END:
+Homepage: [[https://jfrog.com/platform/free-trial/][Jfrog Free Tier]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-6
+:END:
+- Self-Hosted 30 day trial
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-6
+:END:
+2GB Storage 10GB Transfer/month 2,000 CI/CD Minutes/month
+
+** 12. Salesforce
+:PROPERTIES:
+:CUSTOM_ID: salesforce
+:END:
+Homepage:
+[[https://www.salesforce.com/in/form/signup/freetrial-sales][Salesforce
+Free Tier]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-7
+:END:
+- Your FREE 30-Days Trial Now!
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-7
+:END:
+When you download Listware for Salesforce, you are given 1,000 free
+credits which you can use during a free 30-day trial of the app.
+
+** 13. OpenShift
+:PROPERTIES:
+:CUSTOM_ID: openshift
+:END:
+Homepage: [[https://learn.openshift.com/][Interactive Learning Portal]]
+
+*** Try out Openshift 4 cluster for free
+:PROPERTIES:
+:CUSTOM_ID: try-out-openshift-4-cluster-for-free
+:END:
+Openshift 4: [[https://www.openshift.com/try][Try Openshift 4 cluster
+for free]]
+
+** 14. Linode
+:PROPERTIES:
+:CUSTOM_ID: linode
+:END:
+Homepage: [[https://www.linode.com][Linode]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-8
+:END:
+- US$100, 60-day free trial requires valid credit card.
+  [[https://www.linode.com/lp/free-credit-100][free-credit-100]]
+
+** 15. Container Hosting Service
+:PROPERTIES:
+:CUSTOM_ID: container-hosting-service
+:END:
+Homepage: [[https://container-hosting.anotherwebservice.com/][Container
+Hosting Service]]
+
+*** Currently Free
+:PROPERTIES:
+:CUSTOM_ID: currently-free
+:END:
+- Container Hosting Service
+  [[https://container-hosting.anotherwebservice.com/][Try Open Source
+  Container Hosting Service for free]]
+
+** 16. Cloudflare
+:PROPERTIES:
+:CUSTOM_ID: cloudflare
+:END:
+Homepage: [[https://www.cloudflare.com/plans/][Cloudflare]]
+
+*** Always free on basic plan:
+:PROPERTIES:
+:CUSTOM_ID: always-free-on-basic-plan
+:END:
+- NS server with DNS delegation
+- 10GB R2 - S3 compatible object storage
+- D1 - serverless SQL database
+- CDN for delegated domains
+- SSL offloading
+- Web Application Firewall
+- Workers & Pages - serverless functions
+
+** 17. OVHcloud
+:PROPERTIES:
+:CUSTOM_ID: ovhcloud
+:END:
+Homepage: [[https://www.ovhcloud.com][OVH]]
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-9
+:END:
+[[https://www.ovhcloud.com/en-ie/public-cloud/][200€ or equivalent on
+all public cloud ressources for 30 days]]
+
+*** Always free
+:PROPERTIES:
+:CUSTOM_ID: always-free-8
+:END:
+- Mongo DB 512 MB (with replication):
+  https://www.ovhcloud.com/en/public-cloud/mongodb/
+
+** 18. Tencent Cloud
+:PROPERTIES:
+:CUSTOM_ID: tencent-cloud
+:END:
+Homepage: [[https://www.tencentcloud.com/campaign/freetier][Tencent
+Cloud]]
+
+Multiple alternative server locations for hosting in Asia: Shanghai,
+Nanjing, Guangzhou, Beijing, Chengdu, Chongqing, Hong Kong, Seoul,
+Tokyo, Singapore, Bangkok, Jakarta, Silicon Valley, Frankfurt, Mumbai,
+Virginia, São Paulo, Toronto
+
+*** Free for Limited-time
+:PROPERTIES:
+:CUSTOM_ID: free-for-limited-time-10
+:END:
+- [[https://www.tencentcloud.com/campaign/promotions][$300 voucher,
+  30-day trial]]
+
+*** Always Free
+:PROPERTIES:
+:CUSTOM_ID: always-free-9
+:END:
+- Elastic Network Interface (ENI)
+- Virtual Private Cloud (VOC)
+- Auto Scaling (AS)
+- VPN connections
+
+** 19. Vercel
+:PROPERTIES:
+:CUSTOM_ID: vercel
+:END:
+Homepage: [[https://vercel.com/pricing][Vercel]]
+
+*** Always free
+:PROPERTIES:
+:CUSTOM_ID: always-free-10
+:END:
+- Support for 35+ Frameworks
+- Fast Globally (Edge Network)
+- Automatic CI/CD (Git Integration)
+- Functions (Serverless, Edge)
+- Starter Database (KV, Postgres)
+- Web Analytics
+
+** 20. Zeabur
+:PROPERTIES:
+:CUSTOM_ID: zeabur
+:END:
+Homepage: [[https://zeabur.com/pricing][Zeabur]]
+
+*** Always free
+:PROPERTIES:
+:CUSTOM_ID: always-free-11
+:END:
+- Serverless functions and static sites
+- 10GB outbound data transfer per month
+
+*** Always free for developer plan
+:PROPERTIES:
+:CUSTOM_ID: always-free-for-developer-plan
+:END:
+- 100GB outbound data transfer per month
+- US$ 5 usage fee per month
